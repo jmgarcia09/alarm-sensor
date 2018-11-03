@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "predeploy": [
+      //unix
+      //"npm --prefix \"$RESOURCE_DIR\" run lint" 
+      //windows
+      "npm --prefix \"%RESOURCE_DIR%\" run lint"
+    ]
+  }
+}
