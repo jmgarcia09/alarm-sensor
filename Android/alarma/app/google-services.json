@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941683730790",
+    "firebase_url": "https://arqui2umg.firebaseio.com",
+    "project_id": "arqui2umg",
+    "storage_bucket": "arqui2umg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941683730790:android:b5e3871f03a25778",
+        "android_client_info": {
+          "package_name": "com.example.kcanel.alarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941683730790-ut4888ebv8a25n0tclndjql80el45tos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kcanel.alarma",
+            "certificate_hash": "a054a3b687368121fd20c93d4b0c42f33d18dd18"
+          }
+        },
+        {
+          "client_id": "941683730790-dvipdkovk3l22gvkpb5vbsvic96uof6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8yFU0Kr5AqbOlreKCFrtfAQAyuDoqxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941683730790-dvipdkovk3l22gvkpb5vbsvic96uof6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
